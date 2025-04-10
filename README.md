@@ -20,3 +20,5 @@ Socket.IO for live communication between backend and frontend
 FastAPI backend for image processing and prediction
 
 Clean CORS-enabled API design
+
+...
